@@ -2,6 +2,7 @@
 
 미완성 과제 
 - ros2_day4 - hw2
+- openCV day1 - hw2
 
 
 
