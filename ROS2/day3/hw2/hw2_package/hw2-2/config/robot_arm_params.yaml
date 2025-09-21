@@ -1,0 +1,4 @@
+hw2-2_node:
+  ros__parameters:
+    link_length: [100.0, 200.0, 150.0]
+    first_angle: [5, 20, 30]

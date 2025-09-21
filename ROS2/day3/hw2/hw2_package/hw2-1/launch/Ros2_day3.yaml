@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+launch:
+  - node:
+      pkg: "hw2_1"
+      exec: "myrclpy_node"
+      name: "node"
+      namespace: "python_node"
+
+  - node:
+      pkg: "hw4"
+      exec: "hw4_node"
+      name: "node"
+      namespace: "c_node"
+      
